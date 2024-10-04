@@ -1,4 +1,3 @@
-```markdown
 # Sanskrit OCR using CV2 and CNN
 
 This project implements Optical Character Recognition (OCR) for Sanskrit characters using Convolutional Neural Networks (CNN) and OpenCV (CV2). The model is trained on a dataset of Sanskrit character images, which are processed using image resizing and grayscale conversion. The trained model is capable of predicting the class of a Sanskrit character from an image.
